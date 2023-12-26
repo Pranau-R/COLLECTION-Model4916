@@ -39,10 +39,10 @@ function _setProject {
     readonly OPTARDUINO_SOURCE_DEFAULT=sketch/Mobile-mode/Model4916-MultiGas-Sensor/Model4916-MultiGas-Sensor.ino
     readonly OPTARDUINO_BOARD_DEFAULT=4916
     readonly OPTKEYFILE_DEFAULT="$INVOKEDIR/keys/project.pem"
-    readonly OPTREGION_DEFAULT=us915
+    readonly OPTREGION_DEFAULT=in866
     readonly OPTNETWORK_DEFAULT=ttn
     readonly OPTSUBBAND_DEFAULT=default
-    readonly OPTCLOCK_DEFAULT=16
+    readonly OPTCLOCK_DEFAULT=32
     readonly OPTXSERIAL_DEFAULT=hw
 }
 
