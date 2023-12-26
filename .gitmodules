@@ -10,9 +10,6 @@
 [submodule "extra/tools-build-with-cli"]
 	path = extra/tools-build-with-cli
 	url = git@github.com:mcci-catena/tools-build-with-cli.git
-[submodule "sketch/Mobile-mode/Model4916-MultiGas-Sensor"]
-	path = sketch/Mobile-mode/Model4916-MultiGas-Sensor
-	url = git@github.com:mcci-catena/Model4916-MultiGas-Sensor.git
 [submodule "sketch/Fixed-mode/Model4916-MultiGas-Sensor"]
 	path = sketch/Fixed-mode/Model4916-MultiGas-Sensor
 	url = git@github.com:mcci-catena/Model4916-MultiGas-Sensor.git
@@ -55,3 +52,6 @@
 [submodule "libraries/MCCI_FRAM_I2C"]
 	path = libraries/MCCI_FRAM_I2C
 	url = git@github.com:mcci-catena/MCCI_FRAM_I2C.git
+[submodule "sketch/Mobile-mode/Model4916-MultiGas-Sensor"]
+	path = sketch/Mobile-mode/Model4916-MultiGas-Sensor
+	url = git@github.com:mcci-catena/Model4916-MultiGas-Sensor.git
