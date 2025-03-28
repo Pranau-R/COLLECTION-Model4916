@@ -39,3 +39,9 @@ This repo is intended to be built on Linux (Ubuntu 18 or later). The build scrip
       ```
 
 4. The build files shows up in `COLLECTION-Model4916/build/ide`.
+
+NOTE: By default, the application is build for Mobile Mode. To build for Fixed Mode follow the below steps:
+
+1. Open the `build-with-cli.sh` script in text editor.
+
+2. Change the `OPTARDUINO_SOURCE_DEFAULT` field to: `sketch/Fixed-mode/Model4916-MultiGas-Sensor/Model4916-MultiGas-Sensor.ino` and follow the 3rd step from `To build`.
